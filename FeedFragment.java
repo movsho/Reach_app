@@ -69,6 +69,7 @@ public class FeedFragment extends ListFragment {
             ArrayAdapter<String> adapter = new ArrayAdapter<String>(getActivity(),
                     android.R.layout.simple_list_item_1, data);
             setListAdapter(adapter);
+            // asdasda sd asd asd
         }
     }
 
